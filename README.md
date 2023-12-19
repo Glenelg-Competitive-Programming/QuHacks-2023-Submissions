@@ -3,6 +3,6 @@
 #### Note: All teams at QuHacks had members outside of the Glenelg Competitive Programming Team.
 
 ### 🏆 Awards 🏆
-1) 🥇** 1st Placed Advanced (Grand Prize) ** 🥇  => Glenelg #1 (Mixed)
+1) **🥇1st Placed Advanced (Grand Prize)🥇**  => Glenelg #1 (Mixed)
 
 
