@@ -1,0 +1,13 @@
+pandas
+numpy
+flask
+firebase-admin
+numpy
+flask_mail
+transformers
+torch
+scikit-learn
+flask-restful
+flask_cors
+flask_jwt_extended
+passlib
