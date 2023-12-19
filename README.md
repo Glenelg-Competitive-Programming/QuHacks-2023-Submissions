@@ -1,4 +1,4 @@
-## Glenelg Competitive Programming Submissions @ !(QuHacks 2023)[https://quhacks.tech/)
+## Glenelg Competitive Programming Submissions @ ![QuHacks 2023](https://quhacks.tech/)
 
 #### Note: All teams at QuHacks had members outside of the Glenelg Competitive Programming Team.
 
